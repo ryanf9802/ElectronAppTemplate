@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "App Description",
   "main": "main.js",
-  "author": "Ryan Fitzpatrick",
+  "author": "Author Name",
   "license": "MIT",
   "scripts": {
     "build": "webpack",
