@@ -1,3 +1,7 @@
+# New environment init
+1. `cd FrontEnd`
+2. `npm install`
+
 # Running the app
 1. `cd FrontEnd`
 2. Build the app
