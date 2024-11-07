@@ -8,3 +8,7 @@
     `npm run build`
 3. Run Electron
     `npm run electron`
+
+# Packaging the app
+1. `cd FrontEnd`
+2. `npm run make`
