@@ -1,0 +1,16 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "App Description",
+  "main": "main.js",
+  "author": "Ryan Fitzpatrick",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack serve --mode development",
+    "electron": "electron ."
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
